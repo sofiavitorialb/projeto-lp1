@@ -1,7 +1,7 @@
 
 
 
-A importancia da Higiene no ambiente Escolar.
+<h1 align="center"> A importancia da Higiene no ambiente Escolar.
 
 Descriçao : Vamos mostrar a ideia de um aplicativo para melhorar a higiene pessoal no colegio.
 
