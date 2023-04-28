@@ -15,7 +15,7 @@ Funcionaliadade: Para ajudar a resolver esse problema, uma possível solução s
 
 Usabilidade da solução: Além disso, o aplicativo poderia fornecer informações e dicas sobre como manter um ambiente limpo e saudável, incentivando a conscientização sobre a importância da higiene na escola. Também seria possível incluir uma seção de recompensas, em que os alunos poderiam ganhar pontos ou prêmios por relatar problemas de higiene e ajudar a manter a escola limpa.
   
-  ![download](https://user-images.githubusercontent.com/130568263/235219466-6a812d46-d87e-4bcd-9376-c0a2f2f1a549.jpg)
+![mobile](https://user-images.githubusercontent.com/130568263/235219703-03c22816-1dbe-45d8-97ab-f7fbe57f0058.png)
 
 
 Outra funcionalidade interessante seria a possibilidade de fazer avaliações periódicas da limpeza da escola através do aplicativo, permitindo que os alunos, professores e funcionários avaliassem a qualidade da limpeza e deixassem sugestões para melhorias.
