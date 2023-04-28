@@ -24,3 +24,12 @@ Outra funcionalidade interessante seria a possibilidade de fazer avaliações pe
 
 
 Com essas funcionalidades, um aplicativo voltado para a seleção e solução de problemas de higiene na escola poderia ajudar a manter um ambiente mais limpo e saudável para todos. Além disso, incentivaria a conscientização sobre a importância da higiene, contribuindo para a formação de alunos mais conscientes e responsáveis.
+
+  E essa é a nossa sugestão para uma possivel solução para esse problema na nossa escola, por meio da tecnologia foram abertas muitas portas para que alguns problemas pudessem ser resolvidos por meio dela. E um aplicativo é uma ótima opção para tornar mais prático essa questão do nosso problema e encontrar opções de fazer essas coisas com mais facilidade!
+  
+  
+  ![asas](https://user-images.githubusercontent.com/130568263/235220651-a2bd1dc6-d9ff-4120-ba54-9c7fb9712aeb.jpg)
+
+  
+  
+  
