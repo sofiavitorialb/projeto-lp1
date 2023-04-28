@@ -1,6 +1,6 @@
 ![limpeza-da-escola](https://user-images.githubusercontent.com/130568263/235217485-c3ff6f22-3aac-4423-8339-a3307c396f46.jpg)
 
-
+Alunos: Sofia Vitoria, Leonardo Xavier, Stephanie Adriana, Gabrielle Barreto e Nicole Lima.
 
 <h1 align="center"> A importancia da Higiene no ambiente Escolar.
 
