@@ -1,5 +1,5 @@
+![limpeza-da-escola](https://user-images.githubusercontent.com/130568263/235217485-c3ff6f22-3aac-4423-8339-a3307c396f46.jpg)
 
-![repository-open-graph-template](https://user-images.githubusercontent.com/130568263/235217306-1ecdaed8-9738-4209-8283-666167931ea8.png)
 
 
 <h1 align="center"> A importancia da Higiene no ambiente Escolar.
