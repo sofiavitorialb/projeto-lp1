@@ -19,5 +19,8 @@ Usabilidade da solução: Além disso, o aplicativo poderia fornecer informaçõ
 
 
 Outra funcionalidade interessante seria a possibilidade de fazer avaliações periódicas da limpeza da escola através do aplicativo, permitindo que os alunos, professores e funcionários avaliassem a qualidade da limpeza e deixassem sugestões para melhorias.
+  
+  ![download](https://user-images.githubusercontent.com/130568263/235219968-48bb8781-ead6-45ec-b937-f4fa62a31e44.jpg)
+
 
 Com essas funcionalidades, um aplicativo voltado para a seleção e solução de problemas de higiene na escola poderia ajudar a manter um ambiente mais limpo e saudável para todos. Além disso, incentivaria a conscientização sobre a importância da higiene, contribuindo para a formação de alunos mais conscientes e responsáveis.
