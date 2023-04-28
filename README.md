@@ -7,6 +7,9 @@
 Descriçao : Vamos mostrar a ideia de um aplicativo para melhorar a higiene pessoal no colegio.
 
 A higiene na escola é um assunto de extrema importância, pois a falta dela pode causar diversos problemas de saúde para os alunos, professores e funcionários. Infelizmente, muitas escolas ainda enfrentam dificuldades em manter um ambiente limpo e saudável para todos. Isso pode ser devido a diversos fatores, como a falta de recursos financeiros para investir em produtos de limpeza, a falta de conscientização sobre a importância da higiene e até mesmo a falta de tempo para dedicar a essa tarefa.
+  
+  ![download](https://user-images.githubusercontent.com/130568263/235218664-be53dedd-2fda-4804-8585-dbce4c86867b.jpg)
+
 
 Funcionaliadade: Para ajudar a resolver esse problema, uma possível solução seria a criação de um aplicativo que permitisse a seleção dos problemas de higiene na escola. Esse aplicativo poderia ser utilizado por alunos, professores e funcionários para reportar qualquer problema de limpeza ou higiene que identificassem na escola. Ao selecionar o problema no aplicativo, seria possível enviar uma mensagem para a equipe responsável pela limpeza, para que pudesse ser resolvido o mais rápido possível.
 
