@@ -1,4 +1,5 @@
 
+![repository-open-graph-template](https://user-images.githubusercontent.com/130568263/235217306-1ecdaed8-9738-4209-8283-666167931ea8.png)
 
 
 <h1 align="center"> A importancia da Higiene no ambiente Escolar.
